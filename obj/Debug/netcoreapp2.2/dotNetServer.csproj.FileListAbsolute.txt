@@ -1,0 +1,14 @@
+C:\Users\Brian Miller\Dev\dotNetServer\bin\Debug\netcoreapp2.2\dotNetServer.deps.json
+C:\Users\Brian Miller\Dev\dotNetServer\bin\Debug\netcoreapp2.2\dotNetServer.runtimeconfig.json
+C:\Users\Brian Miller\Dev\dotNetServer\bin\Debug\netcoreapp2.2\dotNetServer.runtimeconfig.dev.json
+C:\Users\Brian Miller\Dev\dotNetServer\bin\Debug\netcoreapp2.2\dotNetServer.dll
+C:\Users\Brian Miller\Dev\dotNetServer\bin\Debug\netcoreapp2.2\dotNetServer.pdb
+C:\Users\Brian Miller\Dev\dotNetServer\obj\Debug\netcoreapp2.2\dotNetServer.csprojAssemblyReference.cache
+C:\Users\Brian Miller\Dev\dotNetServer\obj\Debug\netcoreapp2.2\dotNetServer.csproj.CoreCompileInputs.cache
+C:\Users\Brian Miller\Dev\dotNetServer\obj\Debug\netcoreapp2.2\dotNetServer.RazorAssemblyInfo.cache
+C:\Users\Brian Miller\Dev\dotNetServer\obj\Debug\netcoreapp2.2\dotNetServer.RazorAssemblyInfo.cs
+C:\Users\Brian Miller\Dev\dotNetServer\obj\Debug\netcoreapp2.2\dotNetServer.AssemblyInfoInputs.cache
+C:\Users\Brian Miller\Dev\dotNetServer\obj\Debug\netcoreapp2.2\dotNetServer.AssemblyInfo.cs
+C:\Users\Brian Miller\Dev\dotNetServer\obj\Debug\netcoreapp2.2\dotNetServer.RazorTargetAssemblyInfo.cache
+C:\Users\Brian Miller\Dev\dotNetServer\obj\Debug\netcoreapp2.2\dotNetServer.dll
+C:\Users\Brian Miller\Dev\dotNetServer\obj\Debug\netcoreapp2.2\dotNetServer.pdb
