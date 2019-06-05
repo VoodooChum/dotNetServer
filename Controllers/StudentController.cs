@@ -25,5 +25,12 @@ namespace dotNetServer.Controllers
       return new Student() { Name = name };
     }
 
+    [HttpPost]
+    public Student Insert([FromBody]Student student)
+    {
+      // write the new student to database
+      return student;
+    }
+
   }
 }
