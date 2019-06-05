@@ -10,11 +10,20 @@ namespace dotNetServer.Controllers
     [HttpGet]
     public IEnumerable<Student> GetAll()
     {
+      // Faked Output - Replace with database request
       var studentList = new List<Student>();
       studentList.Add(new Student() { Name = "Billy", Age = "40", Sex = "Male" });
       studentList.Add(new Student() { Name = "Brian", Age = "47", Sex = "Male" });
       studentList.Add(new Student() { Name = "Peyton", Age = "19", Sex = "Female" });
       return studentList;
     }
+
+    [HttpGet("{name}")]
+    public Student Get(string name)
+    {
+      // Faked Output - Replace with database request
+      return new Student() { Name = name };
+    }
+
   }
 }
